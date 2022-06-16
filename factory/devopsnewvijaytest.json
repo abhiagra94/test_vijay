@@ -1,0 +1,9 @@
+{
+	"name": "devopsnewvijaytest",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "657cd190-acd3-4695-9404-b750a6e247d3",
+		"tenantId": "a7447884-a17e-4cca-b452-b3b7045921a3"
+	}
+}
